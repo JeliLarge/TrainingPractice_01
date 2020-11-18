@@ -1,0 +1,5 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\EIA_Task_02.exe.config
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\EIA_Task_02.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\EIA_Task_02.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\EIA_Task_02.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\EIA_Task_02.pdb

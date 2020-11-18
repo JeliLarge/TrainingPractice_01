@@ -1,0 +1,8 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ЕИА_Task_01\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\bin\Debug\ConsoleApplication8.exe
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\bin\Debug\ConsoleApplication8.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\obj\Debug\ConsoleApplication8.exe
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\TrainingPractice_01\ЕИА_Task_01\obj\Debug\ConsoleApplication8.pdb

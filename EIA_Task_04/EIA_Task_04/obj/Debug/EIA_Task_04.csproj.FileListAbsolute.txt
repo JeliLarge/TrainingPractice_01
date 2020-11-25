@@ -1,0 +1,6 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication6\EIA_Task_04\bin\Debug\EIA_Task_04.exe.config
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication6\EIA_Task_04\bin\Debug\EIA_Task_04.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication6\EIA_Task_04\bin\Debug\EIA_Task_04.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication6\EIA_Task_04\obj\Debug\EIA_Task_04.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ConsoleApplication6\EIA_Task_04\obj\Debug\EIA_Task_04.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication6\EIA_Task_04\obj\Debug\EIA_Task_04.csprojResolveAssemblyReference.cache

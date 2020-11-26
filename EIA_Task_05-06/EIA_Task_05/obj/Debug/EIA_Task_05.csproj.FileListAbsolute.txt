@@ -1,6 +1,0 @@
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\EIA_Task_05.csprojResolveAssemblyReference.cache
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb

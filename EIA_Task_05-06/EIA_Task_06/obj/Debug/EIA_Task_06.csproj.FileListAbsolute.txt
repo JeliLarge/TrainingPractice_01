@@ -1,9 +1,0 @@
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\bin\Debug\EIA_Task_06.exe.config
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\bin\Debug\EIA_Task_06.exe
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\bin\Debug\EIA_Task_06.pdb
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\obj\Debug\EIA_Task_06.csprojResolveAssemblyReference.cache
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\obj\Debug\EIA_Task_06.exe
-C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\EIA_Task_06\obj\Debug\EIA_Task_06.pdb
-C:\Users\Сергей\Desktop\TrainingPractice_01\EIA_Task_05-06\EIA_Task_06\bin\Debug\EIA_Task_06.exe.config
-C:\Users\Сергей\Desktop\TrainingPractice_01\EIA_Task_05-06\EIA_Task_06\obj\Debug\EIA_Task_06.exe
-C:\Users\Сергей\Desktop\TrainingPractice_01\EIA_Task_05-06\EIA_Task_06\obj\Debug\EIA_Task_06.pdb

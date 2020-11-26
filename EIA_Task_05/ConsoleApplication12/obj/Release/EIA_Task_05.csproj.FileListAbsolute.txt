@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Release\ConsoleApplication12.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Release\ConsoleApplication12.exe
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\bin\Release\ConsoleApplication12.pdb
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Release\ConsoleApplication12.exe
+C:\Users\Сергей\Documents\Visual Studio 2013\Projects\ConsoleApplication12\ConsoleApplication12\obj\Release\ConsoleApplication12.pdb
